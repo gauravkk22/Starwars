@@ -1,7 +1,4 @@
 
-Demo ---- https://unlocktheforce.herokuapp.com
-Username - yoda
-Password - dogbah
 
 ## Available Scripts
 
